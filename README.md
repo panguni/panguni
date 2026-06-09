@@ -16,7 +16,7 @@ alt="AI Research Header"
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=23&duration=3000&pause=900&color=6BA368&center=true&vCenter=true&width=850&lines=%F0%9F%91%8B+Welcome+to+my+AI+Research+Space;%F0%9F%8C%B1+LLM-based+Rotating+Machinery+Diagnosis;%F0%9F%8D%80+Industrial+LoRA+Adapter+for+RUL+Prediction;%F0%9F%94%8D+AI-based+Semiconductor+Defect+Detection" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=23&duration=3000&pause=900&color=6BA368&center=true&vCenter=true&width=850&lines=Welcome+to+my+AI+Research+Space;LLM-based+Rotating+Machinery+Diagnosis;Industrial+LoRA+Adapter+for+RUL+Prediction;AI-based+Semiconductor+Defect+Detection" />
 
 </div>
 
@@ -41,7 +41,7 @@ alt="AI Research Header"
 <!-- About -->
 <!-- ========================= -->
 
-<h2 align="center">🌿 About Me 🌿</h2>
+<h2 align="center">About Me</h2>
 
 <div align="center">
 
@@ -49,15 +49,15 @@ alt="AI Research Header"
 <tr>
 <td align="center" width="900">
 
-<h3>💡 AI-driven Industrial Intelligence</h3>
+<h3>AI-driven Industrial Intelligence</h3>
 
 <p>
-안녕하세요! 인공지능을 통해 제조 공정의 문제를 해결하는 <b>AI 엔지니어</b>입니다.<br>
-주로 회전기기의 <b>LLM 기반 고장 진단 및 잔여 수명(RUL) 예측</b>을 연구하며, <br>
-반도체 공정 내 <b>AI 기반 결합 탐지 및 공정 데이터 분석</b> 솔루션을 다룹니다.
+안녕하세요. 인공지능을 통해 제조 공정의 문제를 해결하는 <b>AI 엔지니어</b>입니다.<br>
+주로 회전기기의 <b>LLM 기반 고장 진단 및 잔여 수명(RUL) 예측</b>을 연구하며,<br>
+반도체 공정 내 <b>AI 기반 결함 탐지 및 공정 데이터 분석</b> 솔루션을 다룹니다.
 </p>
 
-<hr style="border: 0.5px solid #A8D5BA;">
+<hr>
 
 <p>
 I am an <b>AI Engineer</b> dedicated to solving complex manufacturing challenges.<br>
@@ -77,7 +77,7 @@ along with <b>AI-driven defect detection and process analysis in semiconductor m
 <!-- Main Research Projects -->
 <!-- ========================= -->
 
-<h2 align="center">🌱 Main Research Projects 🌱</h2>
+<h2 align="center">Main Research Projects</h2>
 
 <div align="center">
 
@@ -92,7 +92,7 @@ Studying methods that enable LLMs to analyze long-term time-series data
 without losing important degradation information or generating unreliable interpretations.
 </p>
 
-<p><b>📄 Related Paper</b></p>
+<p><b>Related Paper</b></p>
 
 <a href="https://doi.org/10.1007/s40684-026-00880-y">
 <img src="https://img.shields.io/badge/VIEW%20PAPER-10.1007%2Fs40684--026--00880--y-2D6A4F?style=for-the-badge&logo=doi&logoColor=white" />
@@ -135,7 +135,7 @@ Detecting bridge, pinch, burr, and contamination defects using
 vision-language models and two-stage refinement strategies.
 </p>
 
-<p><b>📄 Related Paper</b></p>
+<p><b>Related Paper</b></p>
 
 <a href="https://doi.org/10.48550/arXiv.2606.08908">
 <img src="https://img.shields.io/badge/VIEW%20arXiv%20PAPER-2606.08908-2D6A4F?style=for-the-badge&logo=arxiv&logoColor=white" />
@@ -159,7 +159,7 @@ Predicting semiconductor thin-film properties from optical signals
 using Transformer, CNN, MLP, and hybrid deep learning models.
 </p>
 
-<p><b>📌 Conference Poster</b></p>
+<p><b>Conference Poster</b></p>
 
 <a href="https://github.com/user-attachments/files/28742638/2026_KFPE_Poster.pdf">
 <img src="https://img.shields.io/badge/VIEW%20POSTER-Thin--film%20Property%20Prediction-2D6A4F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
@@ -185,7 +185,7 @@ Estimating process parameters such as pressure, power, gas flow ratio,
 deposition time, and plasma-related conditions from optical emission signals.
 </p>
 
-<p><b>📌 Conference Poster</b></p>
+<p><b>Conference Poster</b></p>
 
 <a href="https://github.com/user-attachments/files/28742599/2025_KFPE_Poster.pdf">
 <img src="https://img.shields.io/badge/VIEW%20POSTER-Semiconductor%20Process%20Prediction-2D6A4F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
@@ -210,7 +210,7 @@ deposition time, and plasma-related conditions from optical emission signals.
 <!-- Core Tech Stack -->
 <!-- ========================= -->
 
-<h2 align="center">🍀 Core Tech Stack 🍀</h2>
+<h2 align="center">Core Tech Stack</h2>
 
 <div align="center">
 
@@ -229,7 +229,7 @@ deposition time, and plasma-related conditions from optical emission signals.
 <!-- Research Keywords -->
 <!-- ========================= -->
 
-<h2 align="center">🍀 Research Keywords 🍀</h2>
+<h2 align="center">Research Keywords</h2>
 
 <div align="center">
 
@@ -254,7 +254,7 @@ deposition time, and plasma-related conditions from optical emission signals.
 <!-- Research Direction -->
 <!-- ========================= -->
 
-<h2 align="center">🍀 Research Direction 🍀</h2>
+<h2 align="center">Research Direction</h2>
 
 <div align="center">
 
@@ -276,5 +276,13 @@ The main direction is to connect <b>LLM reasoning</b>, <b>industrial LoRA adapta
 </td>
 </tr>
 </table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2D6A4F,50:6BA368,100:A8D5BA" />
 
 </div>
