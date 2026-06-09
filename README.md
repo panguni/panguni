@@ -83,11 +83,13 @@ Studying methods that enable LLMs to analyze long-term time-series data
 without losing important degradation information or generating unreliable interpretations.
 </p>
 
+<p><b>📄 Related Paper</b></p>
+
 <a href="https://doi.org/10.1007/s40684-026-00880-y">
-<img src="https://img.shields.io/badge/Paper%20DOI-10.1007%2Fs40684--026--00880--y-A8D5BA?style=flat-square&logo=doi&logoColor=1B4332" />
+<img src="https://img.shields.io/badge/VIEW%20PAPER-10.1007%2Fs40684--026--00880--y-2D6A4F?style=for-the-badge&logo=doi&logoColor=white" />
 </a>
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/LLM-A8D5BA?style=flat-square&logoColor=1B4332" />
 <img src="https://img.shields.io/badge/Long--term%20Time--series-B7E4C7?style=flat-square&logoColor=1B4332" />
@@ -103,6 +105,8 @@ without losing important degradation information or generating unreliable interp
 Developing industrial LoRA adapters that reflect equipment degradation behavior
 for LLM-based remaining useful life prediction in rotating machinery.
 </p>
+
+<br>
 
 <img src="https://img.shields.io/badge/Industrial%20LoRA-A8D5BA?style=flat-square&logoColor=1B4332" />
 <img src="https://img.shields.io/badge/Degradation%20Adaptation-B7E4C7?style=flat-square&logoColor=1B4332" />
@@ -121,11 +125,13 @@ Detecting bridge, pinch, burr, and contamination defects using
 vision-language models and two-stage refinement strategies.
 </p>
 
+<p><b>📄 Related Paper</b></p>
+
 <a href="https://doi.org/10.48550/arXiv.2606.08908">
-<img src="https://img.shields.io/badge/arXiv-2606.08908-A8D5BA?style=flat-square&logo=arxiv&logoColor=1B4332" />
+<img src="https://img.shields.io/badge/VIEW%20arXiv%20PAPER-2606.08908-2D6A4F?style=for-the-badge&logo=arxiv&logoColor=white" />
 </a>
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/Vision--Language%20Model-A8D5BA?style=flat-square&logoColor=1B4332" />
 <img src="https://img.shields.io/badge/Lithography-B7E4C7?style=flat-square&logoColor=1B4332" />
@@ -141,6 +147,8 @@ vision-language models and two-stage refinement strategies.
 Predicting semiconductor thin-film properties from optical signals
 using Transformer, CNN, MLP, and hybrid deep learning models.
 </p>
+
+<br>
 
 <img src="https://img.shields.io/badge/OES%20Signal-A8D5BA?style=flat-square&logoColor=1B4332" />
 <img src="https://img.shields.io/badge/Thin%20Film-B7E4C7?style=flat-square&logoColor=1B4332" />
