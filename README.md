@@ -1,4 +1,70 @@
 <!-- ========================= -->
+<!-- AI Research Stadium README -->
+<!-- Soft Green Football Concept -->
+<!-- ========================= -->
+
+<div align="center">
+
+<img 
+src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:A8D5BA,50:6BA368,100:2D6A4F&text=AI%20Research%20Stadium&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=LLM%20%7C%20Deep%20Learning%20%7C%20Semiconductor%20%7C%20Fault%20Diagnosis&descAlignY=58&descSize=18"
+alt="AI Research Stadium Header"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=23&duration=3000&pause=900&color=6BA368&center=true&vCenter=true&width=850&lines=%E2%9A%BD+Welcome+to+my+AI+Research+Stadium;LLM-based+Rotating+Machinery+Diagnosis;Industrial+LoRA+Adapter+for+RUL+Prediction;AI-based+Semiconductor+Defect+Detection" />
+
+</div>
+
+<br>
+
+<!-- ========================= -->
+<!-- Main Badge Line -->
+<!-- ========================= -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20Research-A8D5BA?style=for-the-badge&logo=openai&logoColor=1B4332" />
+<img src="https://img.shields.io/badge/LLM-B7E4C7?style=for-the-badge&logo=ollama&logoColor=1B4332" />
+<img src="https://img.shields.io/badge/Deep%20Learning-DDEAB2?style=for-the-badge&logo=pytorch&logoColor=1B4332" />
+<img src="https://img.shields.io/badge/Semiconductor-6BA368?style=for-the-badge&logo=semanticscholar&logoColor=ffffff" />
+
+</div>
+
+<br>
+
+<!-- ========================= -->
+<!-- About -->
+<!-- ========================= -->
+
+<h2 align="center">About My Research Field</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="900">
+
+<h3>AI-driven Industrial Intelligence</h3>
+
+<p>
+I mainly study <b>LLM-based fault diagnosis and RUL prediction for rotating machinery</b>,
+with additional research on <b>AI-driven defect detection in semiconductor processes</b>.
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- ========================= -->
 <!-- Main Research Projects -->
 <!-- ========================= -->
 
@@ -17,7 +83,7 @@ Studying methods that enable LLMs to analyze long-term time-series data
 without losing important degradation information or generating unreliable interpretations.
 </p>
 
-<img src="https://img.shields.io/badge/LLM-A8D5BA?style=flat-square&logo=openai&logoColor=1B4332" />
+<img src="https://img.shields.io/badge/LLM-A8D5BA?style=flat-square&logoColor=1B4332" />
 <img src="https://img.shields.io/badge/Long--term%20Time--series-B7E4C7?style=flat-square&logoColor=1B4332" />
 <img src="https://img.shields.io/badge/Bearing%20Diagnosis-DDEAB2?style=flat-square&logoColor=1B4332" />
 
@@ -88,5 +154,137 @@ deposition time, and plasma-related conditions from optical emission signals.
 </td>
 </tr>
 </table>
+
+</div>
+
+<br>
+
+<!-- ========================= -->
+<!-- Core Tech Stack -->
+<!-- ========================= -->
+
+<h2 align="center">Core Tech Stack</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-A8D5BA?style=for-the-badge&logo=python&logoColor=1B4332" />
+<img src="https://img.shields.io/badge/PyTorch-B7E4C7?style=for-the-badge&logo=pytorch&logoColor=1B4332" />
+<img src="https://img.shields.io/badge/Transformer-DDEAB2?style=for-the-badge&logo=openai&logoColor=1B4332" />
+<img src="https://img.shields.io/badge/LLM-95D5B2?style=for-the-badge&logo=ollama&logoColor=1B4332" />
+<img src="https://img.shields.io/badge/Computer%20Vision-74C69D?style=for-the-badge&logo=opencv&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Semiconductor-6BA368?style=for-the-badge&logo=semanticscholar&logoColor=ffffff" />
+
+</div>
+
+<br>
+
+<!-- ========================= -->
+<!-- Research Keywords -->
+<!-- ========================= -->
+
+<h2 align="center">Research Keywords</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LLM-A8D5BA?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-B7E4C7?style=flat-square" />
+<img src="https://img.shields.io/badge/LoRA-DDEAB2?style=flat-square" />
+<img src="https://img.shields.io/badge/Long--term%20Time--series-A8D5BA?style=flat-square" />
+<img src="https://img.shields.io/badge/Bearing%20Fault%20Diagnosis-B7E4C7?style=flat-square" />
+<img src="https://img.shields.io/badge/RUL%20Prediction-DDEAB2?style=flat-square" />
+<img src="https://img.shields.io/badge/Industrial%20LoRA-95D5B2?style=flat-square" />
+<img src="https://img.shields.io/badge/Lithography%20Defect%20Detection-A8D5BA?style=flat-square" />
+<img src="https://img.shields.io/badge/OES%20Signal%20Analysis-B7E4C7?style=flat-square" />
+<img src="https://img.shields.io/badge/Thin%20Film%20Prediction-DDEAB2?style=flat-square" />
+<img src="https://img.shields.io/badge/Semiconductor%20Process%20Modeling-95D5B2?style=flat-square" />
+<img src="https://img.shields.io/badge/Industrial%20AI-74C69D?style=flat-square" />
+
+</div>
+
+<br>
+
+<!-- ========================= -->
+<!-- Research Direction -->
+<!-- ========================= -->
+
+<h2 align="center">Research Direction</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="900">
+
+<p>
+My research aims to build reliable industrial AI systems that can understand
+long-term signals, detect abnormal degradation patterns, adapt to equipment-specific behavior,
+and support intelligent decision-making in manufacturing environments.
+</p>
+
+<p>
+The main direction is to connect <b>LLM reasoning</b>, <b>industrial LoRA adaptation</b>,
+<b>time-series degradation analysis</b>, and <b>semiconductor defect/process intelligence</b>.
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- ========================= -->
+<!-- GitHub Stats Optional -->
+<!-- ========================= -->
+
+<h2 align="center">GitHub Overview</h2>
+
+<div align="center">
+
+<img 
+src="https://github-readme-stats.vercel.app/api?username=your_github_id&show_icons=true&theme=vue&hide_border=true&title_color=2D6A4F&icon_color=6BA368&text_color=1B4332&bg_color=F7FFF7"
+height="165"
+/>
+
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_id&layout=compact&theme=vue&hide_border=true&title_color=2D6A4F&text_color=1B4332&bg_color=F7FFF7"
+height="165"
+/>
+
+</div>
+
+<br>
+
+<!-- ========================= -->
+<!-- Footer -->
+<!-- ========================= -->
+
+<div align="center">
+
+<img 
+src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:DDEAB2,50:A8D5BA,100:6BA368&text=Industrial%20AI%20Research%20with%20a%20Football%20Stadium%20Mindset&fontColor=1B4332&fontSize=21&fontAlignY=55"
+alt="Footer"
+/>
+
+</div>
+
+<br>
+
+<!-- ========================= -->
+<!-- Contact -->
+<!-- ========================= -->
+
+<h2 align="center">Contact</h2>
+
+<div align="center">
+
+<a href="mailto:your_email@example.com">
+<img src="https://img.shields.io/badge/Email-A8D5BA?style=for-the-badge&logo=gmail&logoColor=1B4332" />
+</a>
+
+<a href="https://github.com/your_github_id">
+<img src="https://img.shields.io/badge/GitHub-6BA368?style=for-the-badge&logo=github&logoColor=ffffff" />
+</a>
 
 </div>
