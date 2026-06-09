@@ -41,7 +41,7 @@ alt="AI Research Header"
 <!-- About -->
 <!-- ========================= -->
 
-<h2 align="center">🌿 저를 소개합니다 (About Me) 🌿</h2>
+<h2 align="center">🌿 About Me 🌿</h2>
 
 <div align="center">
 
