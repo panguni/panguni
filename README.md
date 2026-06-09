@@ -148,7 +148,13 @@ Predicting semiconductor thin-film properties from optical signals
 using Transformer, CNN, MLP, and hybrid deep learning models.
 </p>
 
-<br>
+<p><b>📌 Conference Poster</b></p>
+
+<a href="https://github.com/user-attachments/files/28742638/2026_KFPE_Poster.pdf">
+<img src="https://img.shields.io/badge/VIEW%20POSTER-Thin--film%20Property%20Prediction-2D6A4F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+</a>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/OES%20Signal-A8D5BA?style=flat-square&logoColor=1B4332" />
 <img src="https://img.shields.io/badge/Thin%20Film-B7E4C7?style=flat-square&logoColor=1B4332" />
@@ -166,6 +172,14 @@ using Transformer, CNN, MLP, and hybrid deep learning models.
 Estimating process parameters such as pressure, power, gas flow ratio,
 deposition time, and plasma-related conditions from optical emission signals.
 </p>
+
+<p><b>📌 Conference Poster</b></p>
+
+<a href="https://github.com/user-attachments/files/28742599/2025_KFPE_Poster.pdf">
+<img src="https://img.shields.io/badge/VIEW%20POSTER-Semiconductor%20Process%20Prediction-2D6A4F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+</a>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/Process%20AI-A8D5BA?style=flat-square&logoColor=1B4332" />
 <img src="https://img.shields.io/badge/Sputtering-B7E4C7?style=flat-square&logoColor=1B4332" />
