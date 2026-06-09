@@ -183,7 +183,7 @@ deposition time, and plasma-related conditions from optical emission signals.
 <!-- Core Tech Stack -->
 <!-- ========================= -->
 
-<h2 align="center">🛠️ Core Tech Stack 🛠️</h2>
+<h2 align="center">🍀 Core Tech Stack 🍀</h2>
 
 <div align="center">
 
@@ -227,7 +227,7 @@ deposition time, and plasma-related conditions from optical emission signals.
 <!-- Research Direction -->
 <!-- ========================= -->
 
-<h2 align="center">⚽ Research Direction ⚽</h2>
+<h2 align="center">🍀 Research Direction 🍀</h2>
 
 <div align="center">
 
