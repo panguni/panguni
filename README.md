@@ -16,7 +16,7 @@ alt="AI Research Stadium Header"
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=23&duration=3000&pause=900&color=6BA368&center=true&vCenter=true&width=850&lines=%E2%9A%BD+Welcome+to+my+AI+Research+Stadium;LLM-based+Rotating+Machinery+Diagnosis;Industrial+LoRA+Adapter+for+RUL+Prediction;AI-based+Semiconductor+Defect+Detection" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=23&duration=3000&pause=900&color=6BA368&center=true&vCenter=true&width=850&lines=%E2%9A%BD+Welcome+to+my+AI+Research+Stadium;%F0%9F%8C%B1+LLM-based+Rotating+Machinery+Diagnosis;%F0%9F%8D%80+Industrial+LoRA+Adapter+for+RUL+Prediction;%F0%9F%8F%9F%EF%B8%8F+AI-based+Semiconductor+Defect+Detection" />
 
 </div>
 
@@ -41,7 +41,7 @@ alt="AI Research Stadium Header"
 <!-- About -->
 <!-- ========================= -->
 
-<h2 align="center">About My Research Field</h2>
+<h2 align="center">🏟️ About My Research Field 🏟️</h2>
 
 <div align="center">
 
@@ -49,7 +49,7 @@ alt="AI Research Stadium Header"
 <tr>
 <td align="center" width="900">
 
-<h3>AI-driven Industrial Intelligence</h3>
+<h3>⚽ AI-driven Industrial Intelligence</h3>
 
 <p>
 I mainly study <b>LLM-based fault diagnosis and RUL prediction for rotating machinery</b>,
@@ -68,7 +68,7 @@ with additional research on <b>AI-driven defect detection in semiconductor proce
 <!-- Main Research Projects -->
 <!-- ========================= -->
 
-<h2 align="center">Main Research Projects</h2>
+<h2 align="center">🌱 Main Research Projects 🌱</h2>
 
 <div align="center">
 
@@ -163,7 +163,7 @@ deposition time, and plasma-related conditions from optical emission signals.
 <!-- Core Tech Stack -->
 <!-- ========================= -->
 
-<h2 align="center">Core Tech Stack</h2>
+<h2 align="center">🛠️ Core Tech Stack 🛠️</h2>
 
 <div align="center">
 
@@ -182,7 +182,7 @@ deposition time, and plasma-related conditions from optical emission signals.
 <!-- Research Keywords -->
 <!-- ========================= -->
 
-<h2 align="center">Research Keywords</h2>
+<h2 align="center">🍀 Research Keywords 🍀</h2>
 
 <div align="center">
 
@@ -207,7 +207,7 @@ deposition time, and plasma-related conditions from optical emission signals.
 <!-- Research Direction -->
 <!-- ========================= -->
 
-<h2 align="center">Research Direction</h2>
+<h2 align="center">⚽ Research Direction ⚽</h2>
 
 <div align="center">
 
@@ -238,7 +238,7 @@ The main direction is to connect <b>LLM reasoning</b>, <b>industrial LoRA adapta
 <!-- GitHub Stats Optional -->
 <!-- ========================= -->
 
-<h2 align="center">GitHub Overview</h2>
+<h2 align="center">🌿 GitHub Overview 🌿</h2>
 
 <div align="center">
 
@@ -263,7 +263,7 @@ height="165"
 <div align="center">
 
 <img 
-src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:DDEAB2,50:A8D5BA,100:6BA368&text=Industrial%20AI%20Research%20with%20a%20Football%20Stadium%20Mindset&fontColor=1B4332&fontSize=21&fontAlignY=55"
+src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:DDEAB2,50:A8D5BA,100:6BA368&text=Industrial%20AI%20Research%20with%20a%20Football%20Stadium%20Mindset%20%E2%9A%BD&fontColor=1B4332&fontSize=21&fontAlignY=55"
 alt="Footer"
 />
 
@@ -275,7 +275,7 @@ alt="Footer"
 <!-- Contact -->
 <!-- ========================= -->
 
-<h2 align="center">Contact</h2>
+<h2 align="center">📫 Contact 📫</h2>
 
 <div align="center">
 
