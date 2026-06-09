@@ -88,7 +88,7 @@ without losing important degradation information or generating unreliable interp
 <a href="https://doi.org/10.1007/s40684-026-00880-y">
 <img src="https://img.shields.io/badge/VIEW%20PAPER-10.1007%2Fs40684--026--00880--y-2D6A4F?style=for-the-badge&logo=doi&logoColor=white" />
 </a>
-<img src="./assets/click.svg" width="46" height="18" alt="CLICK" />
+<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=12&duration=700&pause=300&color=FF0000&center=false&vCenter=true&width=45&height=18&lines=CLICK;CLICK" />
 
 <br><br>
 
@@ -131,7 +131,7 @@ vision-language models and two-stage refinement strategies.
 <a href="https://doi.org/10.48550/arXiv.2606.08908">
 <img src="https://img.shields.io/badge/VIEW%20arXiv%20PAPER-2606.08908-2D6A4F?style=for-the-badge&logo=arxiv&logoColor=white" />
 </a>
-<img src="./assets/click.svg" width="46" height="18" alt="CLICK" />
+<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=12&duration=700&pause=300&color=FF0000&center=false&vCenter=true&width=45&height=18&lines=CLICK;CLICK" />
 
 <br><br>
 
@@ -155,7 +155,7 @@ using Transformer, CNN, MLP, and hybrid deep learning models.
 <a href="https://github.com/user-attachments/files/28742638/2026_KFPE_Poster.pdf">
 <img src="https://img.shields.io/badge/VIEW%20POSTER-Thin--film%20Property%20Prediction-2D6A4F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </a>
-<img src="./assets/click.svg" width="46" height="18" alt="CLICK" />
+<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=12&duration=700&pause=300&color=FF0000&center=false&vCenter=true&width=45&height=18&lines=CLICK;CLICK" />
 
 <br><br>
 
@@ -181,7 +181,7 @@ deposition time, and plasma-related conditions from optical emission signals.
 <a href="https://github.com/user-attachments/files/28742599/2025_KFPE_Poster.pdf">
 <img src="https://img.shields.io/badge/VIEW%20POSTER-Semiconductor%20Process%20Prediction-2D6A4F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </a>
-<img src="./assets/click.svg" width="46" height="18" alt="CLICK" />
+<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=12&duration=700&pause=300&color=FF0000&center=false&vCenter=true&width=45&height=18&lines=CLICK;CLICK" />
 
 <br><br>
 
