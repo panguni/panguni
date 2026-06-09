@@ -52,16 +52,8 @@ alt="AI Research Stadium Header"
 <h3>⚽ AI-driven Industrial Intelligence</h3>
 
 <p>
-I develop deep learning and large language model-based systems for
-<b>bearing fault diagnosis</b>, <b>remaining useful life prediction</b>,
-<b>lithography defect detection</b>, and
-<b>semiconductor process / thin-film property prediction</b>.
-</p>
-
-<p>
-My research focuses on connecting <b>time-series signals</b>,
-<b>optical emission spectra</b>, <b>vision-language models</b>,
-and <b>industrial AI decision-making</b>.
+My main research focuses on <b>LLM-based fault diagnosis and remaining useful life prediction for rotating machinery</b>.
+I also work on <b>AI-based defect detection in semiconductor manufacturing processes</b>.
 </p>
 
 </td>
