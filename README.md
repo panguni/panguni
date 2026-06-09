@@ -83,6 +83,12 @@ Studying methods that enable LLMs to analyze long-term time-series data
 without losing important degradation information or generating unreliable interpretations.
 </p>
 
+<a href="https://doi.org/10.1007/s40684-026-00880-y">
+<img src="https://img.shields.io/badge/Paper%20DOI-10.1007%2Fs40684--026--00880--y-A8D5BA?style=flat-square&logo=doi&logoColor=1B4332" />
+</a>
+
+<br>
+
 <img src="https://img.shields.io/badge/LLM-A8D5BA?style=flat-square&logoColor=1B4332" />
 <img src="https://img.shields.io/badge/Long--term%20Time--series-B7E4C7?style=flat-square&logoColor=1B4332" />
 <img src="https://img.shields.io/badge/Bearing%20Diagnosis-DDEAB2?style=flat-square&logoColor=1B4332" />
@@ -114,6 +120,12 @@ for LLM-based remaining useful life prediction in rotating machinery.
 Detecting bridge, pinch, burr, and contamination defects using
 vision-language models and two-stage refinement strategies.
 </p>
+
+<a href="https://doi.org/10.48550/arXiv.2606.08908">
+<img src="https://img.shields.io/badge/arXiv-2606.08908-A8D5BA?style=flat-square&logo=arxiv&logoColor=1B4332" />
+</a>
+
+<br>
 
 <img src="https://img.shields.io/badge/Vision--Language%20Model-A8D5BA?style=flat-square&logoColor=1B4332" />
 <img src="https://img.shields.io/badge/Lithography-B7E4C7?style=flat-square&logoColor=1B4332" />
@@ -231,10 +243,3 @@ The main direction is to connect <b>LLM reasoning</b>, <b>industrial LoRA adapta
 </table>
 
 </div>
-
-<br>
-
-<!-- ========================= -->
-<!-- GitHub Stats Optional -->
-<!-- ========================= -->
-
