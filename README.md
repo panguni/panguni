@@ -6,7 +6,7 @@
 <div align="center">
 
 <img 
-src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:A8D5BA,50:6BA368,100:2D6A4F&text=Welcome%20to%20My%20Lab&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=LLM%20%7C%20Deep%20Learning%20%7C%20Semiconductor%20%7C%20Fault%20Diagnosis&descAlignY=58&descSize=18"
+src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:A8D5BA,50:6BA368,100:2D6A4F&text=Welcome%20to%20My%20github&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=LLM%20%7C%20Deep%20Learning%20%7C%20Semiconductor%20%7C%20Fault%20Diagnosis&descAlignY=58&descSize=18"
 alt="AI Research Header"
 />
 
